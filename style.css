@@ -50,4 +50,6 @@ h1 {
     margin-left: 10px;
     color: rgb(222, 221, 221);
 }
-
+.header {
+    text-align: center;
+}
